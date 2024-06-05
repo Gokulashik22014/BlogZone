@@ -28,15 +28,15 @@ Follow these instructions to set up and run the BlogZone project on your local m
 
     a. Install dependencies:
     
-        ```bash
-        npm install
-        ```
+   ```bash
+   npm install
+   ```
 
     b. Run the development server:
     
-        ```bash
-        npm run dev
-        ```
+   ```bash
+   npm run dev
+   ```
 
         Wait for the server to start.
 
@@ -50,27 +50,27 @@ Follow these instructions to set up and run the BlogZone project on your local m
 
         Example `.env` file:
 
-        ```plaintext
-        MONGO_URI=your_mongodb_uri
-        PORT=5000
-        ```
+   ```plaintext
+   MONGO_URI=your_mongodb_uri
+   PORT=5000
+   ```
 
     c. Create an `uploads` directory inside the server directory:
 
-        ```bash
-        mkdir uploads
-        ```
+   ```bash
+   mkdir uploads
+   ```
 
     d. Install dependencies:
     
-        ```bash
-        npm install
-        ```
+   ```bash
+   npm install
+   ```
 
     e. Start the server:
     
-        ```bash
-        npm start
-        ```
+   ```bash
+   npm start
+   ```
 
 Thanks for taking the time to visit this repo. If you encounter any issues with the setup, please don't hesitate to let me know. I'm always looking to improve my skills as a Full Stack Developer, so if you have any suggestions for code improvements, feel free to share them. Happy Coding!
